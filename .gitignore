@@ -12,4 +12,5 @@
 *.out
 
 # Go binary
-go-example-app
+go-hola-svc
+go-hola-service
