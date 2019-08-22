@@ -1,4 +1,4 @@
-module bitbucket.org/corelims/go-example-app
+module github.com/amundsenjunior/go-hola-service
 
 go 1.12
 
