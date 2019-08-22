@@ -13,7 +13,6 @@
 
 * `main_test.go` defines the set of service tests
 * `Dockerfile` executes a multistage build of the Go binary and the app container
-* `chart/` contains the Helm chart definition
 
 ## Development 
 
