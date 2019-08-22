@@ -1,4 +1,4 @@
-# go-example-app
+# go-hola-service
 *Go web server as an example hello world service for writing applications in Go.*
 
 ## Structure
@@ -23,8 +23,8 @@ and `go build` to create the application binary. This binary only is copied over
 service with its port exposed.
 
 ```shell script
-$ docker build -t go-example-app .
-$ docker run -d -p 8000:8000 --name go-example-app go-example-app
-$ docker logs -f go-example-app
+$ docker build -t go-hola-svc .
+$ docker run -d -p 8000:8000 --name go-hola-svc go-hola-svc
+$ docker logs -f go-hola-svc
 $ curl localhost:8000/hello
 ```
