@@ -1,4 +1,7 @@
 # go-hola-service
+
+[![Build Status](https://travis-ci.org/AmundsenJunior/go-hola-service.svg?branch=master)](https://travis-ci.org/AmundsenJunior/go-hola-service)
+
 *Go web server as an example hello world service for writing applications in Go.*
 
 ## Structure
